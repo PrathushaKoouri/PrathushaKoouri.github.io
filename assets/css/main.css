@@ -2313,7 +2313,7 @@ input, select, textarea {
 
 	#main {
 		margin-left: 375px;
-		width: 53.5em;
+		/* width: 53.5em; */
 	}
 
 		#main > section {
@@ -2367,7 +2367,7 @@ input, select, textarea {
 
 			#main > section.three {
 				background-color: #ecf1f1;
-				font-size: 70%;
+				font-size: 80%;
 			}
 
 			#main > section.four {
